@@ -1,0 +1,28 @@
+.homepage {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #CCA79E;
+}
+.options{
+  color:#432322;
+  margin: 10px auto;
+  width:100px;
+  text-align:centre;
+  padding: 10px 10px 10px ;
+  border: 2px solid #432322;
+  background-color:antiquewhite;
+}
+.list {
+  color: #F7BAAC;
+  background-color: #432322;
+  text-align:center;
+  padding: 10px 10px 10px;
+}
+.pressedButton{
+  color:#432322;
+  margin: 10px auto;
+  width:100px;
+  text-align:centre;
+  padding: 10px 10px 10px;
+  border: 2px solid #432322;
+  background-color:rgb(233, 197, 148);
+}

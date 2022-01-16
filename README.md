@@ -7,5 +7,6 @@ extract audio from videos
 - Flask run on directory root
 - cd into front-end and npm start
 
+tested with incognito chrome, do not know if other browsers will work
 
 no requirements file right now
